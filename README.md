@@ -13,7 +13,7 @@ Analysis of 5000+ Blinkit orders to track sales, delivery performance & category
 - Python - Data Cleaning
 - SQL - Business Queries
 
-##MY RECOMMENDATION
+## MY RECOMMENDATION
 - 1. Increase dark stores in late-delivery areas to improve On-Time % from 69% to 85%.
 - 2. Give offers on Fruits & Vegetables during peak hours to increase sales by 15-20%.
 - 3. Track late orders daily to reduce customer complaints.
